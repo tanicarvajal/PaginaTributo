@@ -5,6 +5,7 @@
     background: rgb(235, 202, 233);
 }
 #title{
+    text-align: center;
     margin: 50px 0px;
     color: #000;
 }
@@ -20,11 +21,11 @@ img {
 }
 #img-caption {
     margin: 15px 0 5px 0;
-    text-aling: center;
+    text-align: center;
 }
 #headline {
   margin: 30px 0;
-  text-aling: center;
+  text-align: center;
 }
 a {
     color: #318b57;
